@@ -2,9 +2,9 @@
 Beg
 ===
 
-> 码字不易，求打赏^^
-> 求Fork
-> Start
+> 码字不易，跪求打赏^^\n
+> 求Fork\n
+> Start\n
 > ...
 
 ## <a id="Support_Code:"></a>Support Code:

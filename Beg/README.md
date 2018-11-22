@@ -4,6 +4,8 @@ Beg
 
 > 代码不易，跪求打赏^^
 
+> Code is not easy, kneel for a reward^^
+
 ## <a id="Support_Code:"></a>Support Code:
 AliPay | WechatPay | PayPal
 ------------ | ------------- | -------------
@@ -14,4 +16,5 @@ Reward[:lollipop:](https://github.com/niyongsheng/niyongsheng.github.io/blob/mas
 
 ## Contact Me [:octocat:](https://niyongsheng.github.io)
 * E-mail: niyongsheng@Outlook.com
+* E-mail(standby): niyongsheng@Outlook.com
 * Weibo: [@Ni永胜](https://weibo.com/u/2198015423)

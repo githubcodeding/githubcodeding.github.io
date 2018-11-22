@@ -7,7 +7,7 @@ Beg
 ## <a id="Support_Code:"></a>Support Code:
 AliPay | WechatPay | PayPal
 ------------ | ------------- | -------------
-<img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0885.JPG"> | <img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0886.jpeg"> | <img src="https://github.com/niyongsheng/NYSTK/blob/master/toy.png?raw=true" width="200" height="200">
+<img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0885.JPG"> | <img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0886.jpeg"> | <img src="https://github.com/niyongsheng/NYSTK/blob/master/toy.png?raw=true" width="150" height="150">
 
 ## Contribution
 Reward[:lollipop:](https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/README.md)  Encourage[:heart:](https://github.com/niyongsheng?tab=followers)

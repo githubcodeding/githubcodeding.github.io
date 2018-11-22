@@ -2,10 +2,7 @@
 Beg
 ===
 
-> 码字不易，跪求打赏^^\n
-> 求Fork\n
-> Start\n
-> ...
+> 码字不易，跪求打赏^^
 
 ## <a id="Support_Code:"></a>Support Code:
 AliPay | WechatPay | PayPal

@@ -17,4 +17,4 @@ Reward[:lollipop:](https://github.com/niyongsheng/niyongsheng.github.io/blob/mas
 ## Contact Me [:octocat:](https://niyongsheng.github.io)
 * Weibo: [@Ni永胜](https://weibo.com/u/2198015423)
 * E-mail: niyongsheng@Outlook.com
-* E-mail(standby): niyongsheng@Outlook.com
+* E-mail(standby): niyongsheng@Gmail.com

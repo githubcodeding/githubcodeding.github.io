@@ -15,6 +15,6 @@ AliPay | WechatPay | PayPal
 Reward[:lollipop:](https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/README.md)  Encourage[:heart:](https://github.com/niyongsheng?tab=followers)
 
 ## Contact Me [:octocat:](https://niyongsheng.github.io)
+* Weibo: [@Ni永胜](https://weibo.com/u/2198015423)
 * E-mail: niyongsheng@Outlook.com
 * E-mail(standby): niyongsheng@Outlook.com
-* Weibo: [@Ni永胜](https://weibo.com/u/2198015423)

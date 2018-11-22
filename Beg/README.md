@@ -4,7 +4,7 @@ Beg
 
 > 代码不易，跪求打赏^^
 
-> Code is not easy, kneel for a reward^^
+> Don't bibi, Show me your code!
 
 ## <a id="Support_Code:"></a>Support Code:
 AliPay | WechatPay | PayPal

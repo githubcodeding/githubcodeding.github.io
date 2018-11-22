@@ -1,17 +1,16 @@
-![(logo)](https://github.com/niyongsheng/NYSTK/blob/master/logo.png?raw=true)
+![(logo)](https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/BLogo.png)
 Beg
 ===
 
-## <a id="Application_Instance_by_NYSTK:"></a>Application Instance by NYSTK:
+> 代码不易，跪求打赏^^
+
+## <a id="Support_Code:"></a>Support Code:
 AliPay | WechatPay | PayPal
 ------------ | ------------- | -------------
-<img src="https://github.com/niyongsheng/NYSTK/blob/master/toy.png?raw=true" width="50" height="50"> | <img src="https://github.com/niyongsheng/NYSTK/blob/master/toy.png?raw=true" width="50" height="50"> | <img src="https://github.com/niyongsheng/NYSTK/blob/master/toy.png?raw=true" width="50" height="50">
-
-## <a id="Category_API:"></a>Category API:
-* 
+<img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0885.JPG" width="200" height="300"> | <img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0886.JPG" width="200" height="300"> | <img src="https://github.com/niyongsheng/NYSTK/blob/master/toy.png?raw=true" width="200" height="200">
 
 ## Contribution
-Reward[:lollipop:](+8618853936112)  Encourage[:heart:](https://github.com/niyongsheng/NYSTK/stargazers)
+Reward[:lollipop:](https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/README.md)  Encourage[:heart:](https://github.com/niyongsheng/NYSTK/stargazers)
 
 ## Contact Me [:octocat:](https://niyongsheng.github.io)
 * E-mail: niyongsheng@Outlook.com

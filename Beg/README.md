@@ -7,7 +7,7 @@ Beg
 > Don't bibi, Show me your code!
 
 ## <a id="Support_Code:"></a>Support Code:
-AliPay | WechatPay | PayPal
+WechatPay | AliPay | PayPal
 ------------ | ------------- | -------------
 <img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0885.JPG"> | <img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0886.jpeg"> | <img src="https://github.com/niyongsheng/NYSTK/blob/master/toy.png?raw=true" width="200" height="100">
 

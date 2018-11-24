@@ -56,8 +56,8 @@ Git Helper是一款由我们提供服务的运动社交产品，为说明Git Hel
 * 地址：加拿大马尼托巴省克里特河汤普森58号
 * 邮编：R8N 0N2
 * 我们将尽快审核所涉问题，并在验证你的用户身份后的十五天内予以回复。
-#### 更新日期: 2018年11月15日
-#### 生效日期: 2018年11月15日
+#### 更新日期: 2018年11月25日
+#### 生效日期: 2018年11月25日
 
 
-  [1]: https://niyongsheng.github.io/UPA/icon.png
+  [1]: https://niyongsheng.github.io/UPA/gitHelper.png

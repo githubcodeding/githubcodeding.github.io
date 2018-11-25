@@ -3,7 +3,7 @@ Beg
 ===
 
 > 代码不易，跪求打赏^^\
-> Don't bibi, Show me your code!
+> But godliness with contentment is great gain.
 
 ## <a id="Support_QR_Code:"></a>Support QR Code:
 WechatPay | AliPay | PayPal

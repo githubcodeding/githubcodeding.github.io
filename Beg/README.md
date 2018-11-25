@@ -2,8 +2,7 @@
 Beg
 ===
 
-> 代码不易，跪求打赏^^
-
+> 代码不易，跪求打赏^^\
 > Don't bibi, Show me your code!
 
 ## <a id="Support_Code:"></a>Support Code:

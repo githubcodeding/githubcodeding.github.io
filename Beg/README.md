@@ -5,7 +5,7 @@ Beg
 > 代码不易，跪求打赏^^\
 > Don't bibi, Show me your code!
 
-## <a id="Support_Code:"></a>Support Code:
+## <a id="Support_QR_Code:"></a>Support QR Code:
 WechatPay | AliPay | PayPal
 ------------ | ------------- | -------------
 <img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0885.JPG"> | <img src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/IMG_0886.jpeg"> | <img src="https://github.com/niyongsheng/NYSTK/blob/master/toy.png?raw=true" width="200" height="100">

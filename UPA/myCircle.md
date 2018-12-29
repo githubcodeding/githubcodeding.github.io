@@ -60,4 +60,4 @@ My Circle是一款由我们提供服务的社交产品，为说明My Circle会�
 #### 生效日期: 2018年12月29日
 
 
-  [1]: https://niyongsheng.github.io/UPA/gitHelper.png
+  [1]: https://niyongsheng.github.io/UPA/myCircle.png

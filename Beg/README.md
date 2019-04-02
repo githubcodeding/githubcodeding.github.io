@@ -2,8 +2,8 @@
 Beg
 ===
 
-> 代码不易，跪求打赏^^\
-> But godliness with contentment is great gain.
+> 代码易得，编程难求^^\
+> Talk is cheap.Show me your code.
 
 ## <a id="Support_QR_Code:"></a>Support QR Code:
 WechatPay | AliPay | PayPal

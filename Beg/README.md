@@ -1,8 +1,8 @@
 ![(logo)](https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Beg/BLogo.png)
-Beg
+I/O Beg
 ===
 
-> 代码易得，编程难求^^\
+> 代码易得，算法难求^^\
 > Talk is cheap.Show me your code.
 
 ## <a id="Support_QR_Code:"></a>Support QR Code:

@@ -3,7 +3,7 @@ I/O Beg
 ===
 
 > 代码易得，算法难求^^\
-> Talk is cheap.Show me your code.
+> Talk is cheap，show me your code.
 
 ## <a id="Support_QR_Code:"></a>Support QR Code:
 WechatPay | AliPay | PayPal

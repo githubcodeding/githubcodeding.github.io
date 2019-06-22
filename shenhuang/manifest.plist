@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://changliao28.qmook.com/uploadApk/ios/ios20190525.ipa</string>
+					<string>http://zhaijidi.qmook.com/uploadApk/app/ios_20190622173120.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.qingmai.28chatroom</string>
 				<key>bundle-version</key>
-				<string>3.1</string>
+				<string>3.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
